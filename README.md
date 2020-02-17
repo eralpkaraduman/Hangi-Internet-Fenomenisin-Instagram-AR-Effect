@@ -1,1 +1,1 @@
-# Which-JavaScript-Error-Are-You-Instagram-AR-Effect
+# Which JavaScript Error Are You Instagram AR Effect
